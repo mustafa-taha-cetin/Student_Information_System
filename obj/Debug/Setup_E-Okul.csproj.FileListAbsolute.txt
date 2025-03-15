@@ -1,0 +1,12 @@
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\bin\Debug\Setup_E-Okul.exe.config
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\bin\Debug\Setup_E-Okul.exe
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\bin\Debug\Setup_E-Okul.pdb
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E-Okul.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E_Okul.Form1.resources
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E_Okul.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E-Okul.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E-Okul.exe
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E-Okul.pdb
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E_Okul.Frm_Ogretmen.resources
+C:\Users\USER01\Desktop\C#\Setup_E-Okul\Setup_E-Okul\obj\Debug\Setup_E_Okul.Frm_Ogrenci.resources
